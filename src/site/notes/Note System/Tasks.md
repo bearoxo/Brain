@@ -2,7 +2,7 @@
 {"dg-publish":true,"type":"note-system","tags":["note-system"],"dg-phase":null,"author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-14 00:32 AM","last-modified":"2023-09-14 00:57 AM","dg-created":"2023-09-14T12:32:00","dg-updated":"2023-09-14T12:32:00","permalink":"/note-system/tasks/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-09-14T12:32:00","updated":"2023-09-14T12:32:00"}
 ---
 
-<small>**[Afdzal Yunus](https://afdzal.dev)** • Sep 14, 2023 (**Last updated:** Sep 14, 2023)</small>
+<small>**[Afdzal Yunus](https://afdzal.dev)**</small>
 
 >[!today] Tasks Flow
 >- [ ] Initialize task
