@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"type":"note-system","tags":["note-system"],"dg-phase":null,"author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-14 00:32 AM","last-modified":"2023-09-14 00:57 AM","dg-created":"14-09-2023 12:32 AM","dg-updated":"2014-08-06T13:07:04.054","permalink":"/note-system/tasks/","dgPassFrontmatter":true,"noteIcon":"","created":"14-09-2023 12:32 AM","updated":"2014-08-06T13:07:04.054"}
+{"dg-publish":true,"type":"note-system","tags":["note-system"],"dg-phase":null,"author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-14 00:32 AM","last-modified":"2023-09-14 00:57 AM","dg-created":"14-09-2023 12:32 AM","dg-updated":"2014-08-06T12:32","permalink":"/note-system/tasks/","dgPassFrontmatter":true,"noteIcon":"","created":"14-09-2023 12:32 AM","updated":"2014-08-06T12:32"}
 ---
 
 <small>**[Afdzal Yunus](https://afdzal.dev)** • Sep 14, 2023 (**Last updated:** Sep 14, 2023)</small>
 
-x
+xz
 
 >[!today] Tasks Flow
 >- [ ] Initialize task
