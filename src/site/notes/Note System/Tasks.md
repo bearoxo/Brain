@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"type":"note-system","tags":["note-system"],"dg-phase":null,"author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"<% tp.file.creation_date(\"YYYY-MM-DD HH:mm A\") %>","last-modified":"<% tp.file.last_modified_date(\"YYYY-MM-DD HH:mm A\") %>","dg-created":"<% tp.file.creation_date("YYYY-MM-DD HH:mm A") %>","dg-updated":"<% tp.file.last_modified_date("YYYY-MM-DD HH:mm A") %>","permalink":"/note-system/tasks/","dgPassFrontmatter":true,"noteIcon":"","created":"<% tp.file.creation_date("YYYY-MM-DD HH:mm A") %>","updated":"<% tp.file.last_modified_date("YYYY-MM-DD HH:mm A") %>"}
+{"dg-publish":true,"type":"note-system","tags":["note-system"],"dg-phase":null,"author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-14 00:32 AM","last-modified":"2023-09-14 00:57 AM","dg-created":"2023-09-14 00:32 AM","dg-updated":"2023-09-14 00:57 AM","permalink":"/note-system/tasks/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-09-14 00:32 AM","updated":"2023-09-14 00:57 AM"}
 ---
 
 <small>**[Afdzal Yunus](https://afdzal.dev)** • Sep 14, 2023 (**Last updated:** Sep 14, 2023)</small>
-
 
 >[!today] Tasks Flow
 >- [ ] Initialize task
