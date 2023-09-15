@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"type":"note-system","tags":["note-system","tasks"],"dg-phase":"seedling","author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-14 00:32 AM","last-modified":"2023-09-14 00:57 AM","permalink":"/note-system/tasks/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"type":"note-system","tags":["note-system","tasks"],"dg-phase":"seedling","author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-14 00:32 AM","date-modified":"2023-09-14 00:57 AM","permalink":"/note-system/tasks/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 <small>**[Afdzal Yunus](https://afdzal.dev)** • Sep 14, 2023 (**Last updated:** Sep 14, 2023)</small>
 
 >[!today] Tasks Flow
+>- Non-task
 >- [ ] Initialize task
 >- [?] Question 
 >- [i] More information 
@@ -17,7 +18,7 @@
 >- [x] Done ✅ 2023-07-25
 >- [*] Star  ✅ 2023-07-25
 
->[!summary] Status Types
+>[!summary] Tasks Status Types
 >>---
 >
 >>[!todo] TODO
@@ -48,4 +49,6 @@
 ><br>
 >
 >>[!example] NON_TASK
+>>- Non-task{ #ac7310}
+
 
