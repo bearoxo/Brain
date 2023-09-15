@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"type":"wiki","tags":["wiki","psychology"],"dg-phase":"sprout","author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-15 21:49 PM","date-modified":"2023-09-15 21:49 PM","permalink":"/wiki/230915214910-dysfunctional-family/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"type":"wiki","tags":["wiki","psychology"],"dg-phase":"gravel","author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-15 21:49 PM","date-modified":"2023-09-15 21:49 PM","permalink":"/wiki/230915214910-dysfunctional-family/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 # Dysfunctional Family
