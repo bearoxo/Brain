@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"type":null,"tags":["psychology"],"dg-phase":null,"author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-14 06:39 AM","date-modified":"2023-09-14 06:39 AM","permalink":"/wiki/230914063935-dunning-kruger-effect/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"type":"wiki","tags":["wiki","psychology"],"dg-phase":"gravel","author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-14 06:39 AM","date-modified":"2023-09-14 06:39 AM","permalink":"/wiki/230914063935-dunning-kruger-effect/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 # Dunning-Kruger Effect
-<small>**[Afdzal Yunus](https://afdzal.dev)** • Sep 14, 2023 (**Last updated:** Sep 14, 2023)</small>
+<small>**[Afdzal Yunus](https://afdzal.dev)** • Sep 14, 2023 (**Last updated:** Sep 15, 2023)</small>
 
 ## Introduction
 The **Dunning–Kruger effect** is a [cognitive bias](https://en.wikipedia.org/wiki/Cognitive_bias) in which people with limited competence in a particular domain overestimate their abilities.
