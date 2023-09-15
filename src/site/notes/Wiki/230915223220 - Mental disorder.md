@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"type":"wiki","tags":["wiki","psychology"],"dg-phase":"sprout","author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-15 22:32 PM","date-modified":"2023-09-15 22:32 PM","permalink":"/wiki/230915223220-mental-disorder/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"type":"wiki","tags":["wiki","psychology"],"dg-phase":"gravel","author":"[Afdzal Yunus](https://afdzal.dev)","date-created":"2023-09-15 22:32 PM","date-modified":"2023-09-15 22:32 PM","permalink":"/wiki/230915223220-mental-disorder/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 # Mental disorder
